@@ -1,31 +1,24 @@
-# Frontend code test - Weather API
+# Frontend code test - SMHI client
 
 Hi!
 
 Glad to see that you made it here to our code test.
-We would very much like to see some of your code skills and, as you might already suspect, we have a challenge for you!
 
-This API is already up and running on [Heroku](https://www.heroku.com/) and we would for you to build the frontend with only one requirement:
-- You web page should display weather data for at least 5 days
+We would very much like to see how you solve problems as a developer and, as you might already suspect, we have an exercise for you!
 
-This is all we require of the solution!
+The task is to write a client that consumes and presents data from SMHI's open API. Information about the API can be found [here](http://opendata.smhi.se/apidocs/metfcst/index.html).
 
-When building the frontend we recommend using [CodePen](https://codepen.io/). If you do want to build the solution somewhere else that is alright with us. Just make sure that we are able to view your **solution** and **code** in an easy way.
+You're free to choose what languages and tools to use, which functions to implement, how to present data, etc. There's just a few requirements:
 
-We estimate that solving this should not take more than maximum **4 hours**.
+- The client should run in a web browser (latest version of an evergreen browser)
+- The code should be easy to access. `git clone YOUR_PUBLIC_REPO`, for example.
+- The project should be easy to run. Something along the lines of `npm i && npm start` or "go to this CodePen" should be sufficient.
+- You should be able to talk about your decisions at a following interview.
 
-Good luck, we look foward to have a look at your solution!
+We'll be looking at the project as a whole. The code you write is important, but so are the tools you choose, your project structure, version control strategy, etc.
 
-## How to run this yourself
+We expect you to spend between four and eight hours on this project.
 
-### Prerequisites
+The point is to give you a chance to show us what you've got, _and_ to get a chance to talk about it afterwards.
 
-- [`Node`](https://nodejs.org/en/) - This project was built and tested with Node 8.1.2
-- [npm](https://www.npmjs.com/) - In regular circumstances this is installed together with Node
-
-### Install & run
-
-```
-npm install
-npm start
-```
+So whether you feel like showing off your CSS chops or amaze us with your deep understanding of monads, go for it!
