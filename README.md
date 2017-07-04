@@ -17,8 +17,6 @@ You're free to choose what languages and tools to use, which functions to implem
 
 We'll be looking at the project as a whole. The code you write is important, but so are the tools you choose, your project structure, version control strategy, etc.
 
-We expect you to spend between four and eight hours on this project.
-
 The point is to give you a chance to show us what you've got, _and_ to get a chance to talk about it afterwards.
 
 So whether you feel like showing off your CSS chops or amaze us with your deep understanding of monads, go for it!
